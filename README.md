@@ -1,5 +1,5 @@
-# Project 1: Health & Lifestyle Data Analysis 
-
+# Project 1: Healthly & Lifestyle Choices Data Analysis 
+## Uncovering the connection between daily habits and health outcomes through SQL-based data exploration
 📝 Project Overview:
 This project explores the relationships between health indicators and lifestyle choices across a broad demographic of surveyed individuals using SQL.
 The goal is to uncover trends and patterns that can inform health-related decisions, personal habits, and public policy.
