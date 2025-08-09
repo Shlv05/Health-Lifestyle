@@ -1,4 +1,4 @@
-#**Marketing and Sales Analysis**
+**Marketing and Sales Analysis**
 -----------------------------
 # This project focuses on analyzing the performance of marketing campaigns using key engagement and performance metrics. The goal is to identify target customer segments through data-driven segmentation techniques.
 
